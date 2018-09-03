@@ -1,0 +1,201 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+
+  background-image:url("12.jpg");
+  background-size: 100%,100%; 
+  
+}
+.app1
+{
+height: 200px;
+color: white;
+  font-size: 50px;
+  align-items: center;
+  text-align: center;
+  font-weight: bolder;
+  padding-top: 65px;
+  
+}
+.qty
+{
+color:white;
+
+}
+.app2
+{
+width: 800px;
+color: white;
+  font-size: 18px;
+  padding-top: 65px;
+  /* background-image: url("1.jpg");
+  background-size: 100%,100%; */
+}
+.app3
+{
+text-align: right;
+padding-top: 15px;
+font-size: 20px;
+
+}
+.app4
+{
+text-align: right;
+padding-top: 15px;
+font-size: 20px;
+
+}
+.choose1
+{
+height: 200px;
+color: white;
+  font-size: 40px;
+  align-items: center;
+  text-align: center;
+  font-weight: bolder;
+  padding-top: 65px;
+}
+.tex
+{
+  color:white;
+}
+.thn
+{
+color: white;
+font-weight: bolder;
+font-size: 30px;
+margin-left:100px;
+margin-top: 60px;
+text-align: center;
+padding-top:115px; 
+}
+.form
+{
+width:700px;
+font-size: 20px;
+font-weight: bolder;
+padding-top: 65px;
+margin-left: 35px;
+}
+.confirm1
+{
+color:white;
+font-size: 25px;
+padding-top: 55px;
+margin-left: 500px;
+
+
+}
+.count
+{
+  color:white;
+}
+.final
+{
+  color: white;
+  text-align: center;
+ margin-left: 500px;
+
+}
+
+
+.cont{
+  padding-top: 15px;
+  font-size: 20px;
+}
+
+.check{
+  margin-left: 1100px;
+  font-size: 20px;
+}
+.home
+{
+  margin-left: 600px;
+}
+.frm{
+  color:black;
+}
+
+#main{
+  position:absolute;
+  margin-left: 1050px;
+
+ 
+}
+#main > div{
+  float:left;
+  margin: 10px;
+  
+}
+
+.select
+{
+  color: black;
+}
+
+
+#main1{
+  position:absolute;
+  
+
+ 
+}
+#main1 > div{
+  float:left;
+  margin: 40px;
+  color: white;
+  
+}
+
+
+.but{
+  position:absolute;
+  
+
+ 
+}
+.but > div{
+  float:left;
+  margin: 40px;
+  color: white;
+  
+}
+.home
+{
+  margin-left: 1100px;
+  font-size: 15px;
+  padding-top: 20px;
+}
+
+
+
+
+.img{
+  position:absolute;
+  width : 1800px;
+  
+
+
+ 
+}
+.img > div{
+  float:left;
+  margin-left: 95px;
+  width: 200px;
+ 
+  color:white;
+  
+  
+}
+
+
+
+
+.signup
+{
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 20px;
+}
